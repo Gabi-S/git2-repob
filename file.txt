@@ -1,2 +1,7 @@
-Contenido del file primerodel repo b
-mod personalizado
+Contenido del file primerod el repo b!!!!!!!!
+
+Editando para luego arreglar los conflictos.
+
+    ºººmod personalizadoººº
+
+FIN
